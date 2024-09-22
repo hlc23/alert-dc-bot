@@ -1,0 +1,22 @@
+{
+  "name": "alert-dc-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlc23/alert-dc-bot.git"
+  },
+  "author": "hlc23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlc23/alert-dc-bot/issues"
+  },
+  "homepage": "https://github.com/hlc23/alert-dc-bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.2"
+  }
+}
